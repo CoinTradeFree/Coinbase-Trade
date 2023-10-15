@@ -21,6 +21,6 @@ CoinBot has two types of bots for the Coinbase Advanced exchange. For example, t
 
 
 📁CoinBot: CLICK
-🔓Pass: bot
+🔓Pass: bot https://github.com/SoftBoted/CoinBot#pass-bot
 🤔Does Coinbase Advanced Allow Any Trading Bots?
 Coinbase Advanced doesn’t offer any bot solutions but allows them to connect to the exchange. By connecting Coinbase Advanced to CoinBot, you can use both GRID and DCA trading bots to trade on the exchange. For example, if you want to profit from any particular coin’s sideways drift, you may use CoinBot’s GRID bot. Conversely, you may use the DCA bot if you want to reduce the impact of market volatility and invest a set sum incrementally over time.

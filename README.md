@@ -1,6 +1,5 @@
 
 # Coinbase-Trade-Bot
-Coinbase Trade Bot
 
 [![image](https://github.com/CoinTradeFree/Coinbase-Trade/assets/148001632/3358ee5a-f099-4001-bc1d-9591c0d15c92)
 

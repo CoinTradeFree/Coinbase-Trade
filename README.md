@@ -11,12 +11,14 @@ CoinBot offers two types of Coinbase Advanced Trading Bots, such as DCA and GRID
 Coinbase Advanced is a US-based digital asset exchange and trading platform that’s designed for both advanced traders and cryptocurrency enthusiasts. Compared to other exchanges, Coinbase Advanced might have higher fees and fewer assets for trade, but it also has strong security features and is available for users from both the U.S. and Canada.
 
 ⚙️How Does the Coinbase Trading Bot Work?
-2
+![image](https://github.com/CoinTradeFree/Coinbase-Trade/assets/148001632/7970b403-2821-4395-bb5c-560471557328)
+
 
 CoinBot has two types of bots for the Coinbase Advanced exchange. For example, the DCA (Dollar Cost Average) Coinbase Advanced Trading Bot follows the DCA trading strategy that is based on investing a preset amount regularly over time, thereby reducing the impact of price volatility on your portfolio. Conversely, the GRID Coinbase Advanced Trading Bot follows the GRID trading strategy that profits from price ranges in a sideways drift by placing buy and sell orders around a set price.
 
 ⚙️Get "Trial" version for one week.
-3
+![image](https://github.com/CoinTradeFree/Coinbase-Trade/assets/148001632/ecf94d69-baf3-4e07-adfa-3ae95b417874)
+
 
 📁CoinBot: CLICK
 🔓Pass: bot
